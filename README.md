@@ -1,6 +1,13 @@
 # Flux
 
 **Flux** is a premium, glassmorphic productivity dashboard for macOS that lives quietly in your menu bar. It consolidates fragmented workflows — file creation, clipboard management, snippets, color picking, and note-taking — into a single, high-performance interface.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2fe47322-9675-4c9a-b924-5f3967ebed85" />
+https://github.com/user-attachments/assets/180400cb-2b2b-42cc-9807-50cf96ccd7f0
+https://github.com/user-attachments/assets/f1b88a5e-8e71-44ab-8b23-e19a375a4005
+https://github.com/user-attachments/assets/32d99915-b2d6-4dc6-b981-392ec8070784
+https://github.com/user-attachments/assets/42af5d4f-05bd-47dd-b110-44a3eed37236
+https://github.com/user-attachments/assets/a5f932e1-ab19-4ae5-afd7-fbb068653a39
+https://github.com/user-attachments/assets/c7d1005d-c812-4ce5-9e39-59616be02c98
 
 ---
 Don't want to build from source? **[Download the latest compiled `.dmg` from the Releases section](https://github.com/user/repo/releases)**.
