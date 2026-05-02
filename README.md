@@ -16,7 +16,7 @@
 <video src="https://github.com/user-attachments/assets/c7d1005d-c812-4ce5-9e39-59616be02c98" controls muted width="100%"></video>
 
 ---
-Don't want to build from source? **[Download the latest compiled `.dmg` from the Releases section](https://github.com/user/repo/releases)**.
+Don't want to build from source? **[Download the latest compiled `.dmg` from the Releases section]([https://github.com/user/repo/releases](https://github.com/PotatoInfinity/Flux/releases/tag/v1.0))**.
 
 ---
 
